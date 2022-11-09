@@ -47,7 +47,6 @@ document.querySelector("#cards").innerHTML =
       createGame("07/11	18:30	Michel CG 160 A") +
       createGame("08/11	13:30	Tiago CG 160	A") +
       createGame("09/11	13:30	Tiago CG 160	A") +
-      createGame("09/11	18:30	Michel CG 160 A") +
       createGame("10/11	13:30	Eduardo ONIX	B") +
       createGame("11/11	16:30	Eduardo ONIX	B") +
       createGame("11/11	17:30	Eduardo ONIX	B") +
