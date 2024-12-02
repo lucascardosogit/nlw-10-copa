@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra originalmente os jogos da Copa de 2022. Atualmente sua adaptação demonstra os horários estabelecidos para cumprimento das aulas durante o processo exigido pelo Centro de Formação de Condutores.
+O Calendário da Copa é um projeto que mostra originalmente os jogos da Copa de 2022, instruído pela RocketSeat. Atualmente em minha adaptação, fiz com que o presente projeto demonstrasse os horários de minhas aulas estabelecidas pelo Centro de Formação de Condutores, contendo os dias, horários professores e veículos, para facilitar meu entendimento pessoal.
 
 ## 🔖 Layout
 
